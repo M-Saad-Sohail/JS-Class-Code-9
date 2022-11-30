@@ -1,0 +1,47 @@
+/* Change color onclick by changing className continously
+.box {
+    width: 100px;
+  height: 100px;
+  background-color: chocolate;
+}
+.largebox {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+} */
+
+/* Change color onclick by adding another class to the element continously */
+/* .box {
+  width: 100px;
+  height: 100px;
+  background-color: chocolate;
+  background-color: chocolate;
+}
+.red {
+  background-color: red;
+} */
+/* 
+
+.circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-color: cornflowerblue;
+}
+.rectangle {
+  width: 200px;
+  height: 100px;
+  background: cyan;
+}
+.triangle{
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #555;
+} */
+.color {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+  }
